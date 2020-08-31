@@ -31,3 +31,10 @@ com.rockwellcollins.atc.resolute.doc project.
 See the main [Resolute](https://github.com/loonwerks/Resolute.git)
 repository for information regarding developing and maintaining Resolute.
 
+## Installing AGREE in OSATE
+
+This repository is laid out such that access via the GitHub raw
+interface maps to a valid Eclipse P2 repository.  Use the following
+URL in the Eclipse "Install New Software..." dialog:
+
+[https://raw.githubusercontent.com/loonwerks/Resolute-Updates/master](https://raw.githubusercontent.com/loonwerks/Resolute-Updates/master)

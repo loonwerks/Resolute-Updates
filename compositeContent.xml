@@ -3,14 +3,15 @@
 <repository name='&quot;Eclipse Project Test Site&quot;'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1610038224149'/>
+    <property name='p2.timestamp' value='1623881433617'/>
   </properties>
-  <children size='6'>
+  <children size='7'>
     <child location='resolute_2.4.0'/>
     <child location='resolute_2.4.1'/>
     <child location='resolute_2.4.2'/>
     <child location='resolute_2.4.3'/>
     <child location='resolute_2.5.0'/>
     <child location='resolute_2.6.0'/>
+    <child location='resolute_2.7.0'/>
   </children>
 </repository>

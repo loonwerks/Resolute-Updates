@@ -3,9 +3,9 @@
 <repository name='&quot;Eclipse Project Test Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1623881433617'/>
+    <property name='p2.timestamp' value='1624419193906'/>
   </properties>
-  <children size='7'>
+  <children size='8'>
     <child location='resolute_2.4.0'/>
     <child location='resolute_2.4.1'/>
     <child location='resolute_2.4.2'/>
@@ -13,5 +13,6 @@
     <child location='resolute_2.5.0'/>
     <child location='resolute_2.6.0'/>
     <child location='resolute_2.7.0'/>
+    <child location='resolute_2.7.1'/>
   </children>
 </repository>

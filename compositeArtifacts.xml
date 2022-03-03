@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeArtifactRepository version='1.0.0'?>
-<repository name='&quot;Eclipse Project Test Site&quot;'
+<repository name='&quot;Resolute Update Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1636669697644'/>
+    <property name='p2.timestamp' value='1646318361691'/>
   </properties>
-  <children size='9'>
+  <children size='10'>
     <child location='resolute_2.4.0'/>
     <child location='resolute_2.4.1'/>
     <child location='resolute_2.4.2'/>
@@ -15,5 +15,6 @@
     <child location='resolute_2.7.0'/>
     <child location='resolute_2.7.1'/>
     <child location='resolute_2.7.2'/>
+    <child location='resolute_3.0.0'/>
   </children>
 </repository>

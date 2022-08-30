@@ -3,9 +3,9 @@
 <repository name='&quot;Resolute Update Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1646318361691'/>
+    <property name='p2.timestamp' value='1661891106247'/>
   </properties>
-  <children size='10'>
+  <children size='11'>
     <child location='resolute_2.4.0'/>
     <child location='resolute_2.4.1'/>
     <child location='resolute_2.4.2'/>
@@ -16,5 +16,6 @@
     <child location='resolute_2.7.1'/>
     <child location='resolute_2.7.2'/>
     <child location='resolute_3.0.0'/>
+    <child location='resolute_3.1.0'/>
   </children>
 </repository>

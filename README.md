@@ -24,17 +24,18 @@ The user's guide for Resolute, including description of the plug-in for
 OSATE, assurance case concepts, specification language reference
 manual, and examples is contained in the in-tool help.  The source
 code for the help documentation is contained in the
-com.rockwellcollins.atc.resolute.doc project.
+com.rockwellcollins.atc.resolute.help project.
 
 ## Development Guide
 
 See the main [Resolute](https://github.com/loonwerks/Resolute.git)
 repository for information regarding developing and maintaining Resolute.
 
-## Installing AGREE in OSATE
+## Installing Resolute in OSATE
 
-This repository is laid out such that access via the GitHub raw
-interface maps to a valid Eclipse P2 repository.  Use the following
-URL in the Eclipse "Install New Software..." dialog:
-
-[https://raw.githubusercontent.com/loonwerks/Resolute-Updates/master](https://raw.githubusercontent.com/loonwerks/Resolute-Updates/master)
+This repo can be installed on Eclipse by following these steps:
+1. Go to *Help* > *Install New Software...*
+2. Select *Add*
+3. In the location, enter [https://loonwerks.github.io/Resolute-Updates](https://loonwerks.github.io/Resolute-Updates), or specify a specific release or snapshot (e.g., [https://loonwerks.github.io/Resolute-Updates/releases/4.0.0](https://loonwerks.github.io/Resolute-Updates/releases/4.0.0)) and press *Add*
+4. Make sure the box *Contact all update sites during install to find required software* is unchecked
+5. Check the desired software, click *Next >*, and finish the rest of the install according to the prompts

@@ -2,11 +2,10 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='Resolute Snapshots' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1753759382851'/>
+    <property name='p2.timestamp' value='1753759531378'/>
     <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
-  <children size='11'>
-    <child location='4.1.100.202409051420'/>
+  <children size='10'>
     <child location='4.1.100.202409131442'/>
     <child location='4.1.101.202409181400'/>
     <child location='4.1.101.202409181443'/>

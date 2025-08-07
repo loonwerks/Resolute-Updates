@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='Resolute Snapshots' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1754540786060'/>
+    <property name='p2.atomic.composite.loading' value='true'/>
+  </properties>
+  <children size='11'>
+    <child location='4.1.101.202507170331'/>
+    <child location='4.1.101.202507182353'/>
+    <child location='4.1.101.202507191526'/>
+    <child location='4.1.101.202507191535'/>
+    <child location='4.1.101.202507290321'/>
+    <child location='4.1.101.202508021957'/>
+    <child location='4.1.101.202508041758'/>
+    <child location='4.1.101.202508042343'/>
+    <child location='4.1.101.202508062031'/>
+    <child location='4.1.101.202508070420'/>
+    <child location='4.1.101.202508070424'/>
+  </children>
+</repository>
